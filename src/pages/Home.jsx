@@ -1,5 +1,5 @@
 import { useTodos } from "../context/TodoContext.jsx";
-import TodoForm from "../components/TodoFrom.jsx";
+import TodoForm from "../components/TodoForm.jsx";
 import TodoList from "../components/TodoList.jsx";
 
 function Home() {
